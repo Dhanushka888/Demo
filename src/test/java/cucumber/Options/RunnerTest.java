@@ -42,5 +42,6 @@ public class RunnerTest {
 		reportBuilder.generateReports();
 		//This is added by Indian guy
 		// and here validate 'result' to decide what to do if report has failed
+		//This comment from american guy
 	}
 }
