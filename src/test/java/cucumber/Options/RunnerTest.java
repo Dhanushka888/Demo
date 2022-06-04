@@ -40,6 +40,7 @@ public class RunnerTest {
 
 		ReportBuilder reportBuilder = new ReportBuilder(jsonFiles, configuration);
 		reportBuilder.generateReports();
+		//This is added by Indian guy
 		// and here validate 'result' to decide what to do if report has failed
 	}
 }
